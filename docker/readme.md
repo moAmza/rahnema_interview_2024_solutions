@@ -28,8 +28,9 @@
 
 ### منابع تکمیلی:
 
-Docker Crash Course for Absolute Beginners [NEW]
-…
+- [A crash course on Docker](https://blog.gruntwork.io/a-crash-course-on-docker-34073b9e1833)
+- [Docker Crash Course for Absolute Beginners](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3Dpg19Z8LL06w&ved=2ahUKEwjC_IGovOKFAxUFiv0HHc8VAH0QtwJ6BAgZEAI&usg=AOvVaw1aorbQoDEn4nd5Seha_hBM)
+- [How To Build a Node.js Application with Docker](https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker)
 
 ## سوالات
 
