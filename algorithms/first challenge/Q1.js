@@ -1,0 +1,1 @@
+var countPoints = function (rings) {};

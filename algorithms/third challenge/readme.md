@@ -8,7 +8,7 @@
 
 ### مثال ۱:
 
-<img src="./question_3_example_1.png" alt="example_1_image" width="50%"/>
+<img src="./assets/question_3_example_1.png" alt="example_1_image" width="50%"/>
 
 ورودی:
 
@@ -24,7 +24,7 @@
 
 ### مثال ۲:
 
-<img src="./question_3_example_2.png" alt="example_2_image" width="50%"/>
+<img src="./assets/squestion_3_example_2.png" alt="example_2_image" width="50%"/>
 
 ورودی:
 
