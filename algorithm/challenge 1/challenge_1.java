@@ -1,5 +1,3 @@
-class Solution {
-    public int countPoints(String rings) {
-        
-    }
+public int c1(String halghe) {
+
 }

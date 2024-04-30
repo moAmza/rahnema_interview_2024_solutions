@@ -1,4 +1,4 @@
-class BrowserHistory:
+class Tarikhche:
 
     def __init__(self, homepage: str):
         
@@ -13,8 +13,8 @@ class BrowserHistory:
         
 
 
-# Your BrowserHistory object will be instantiated and called as such:
-# obj = BrowserHistory(homepage)
+# Your Tarikhche object will be instantiated and called as such:
+# obj = Tarikhche(homepage)
 # obj.visit(url)
 # param_2 = obj.undo(steps)
 # param_3 = obj.redo(steps)

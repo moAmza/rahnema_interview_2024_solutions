@@ -1,1 +1,1 @@
-var countPoints = function (rings) {};
+var c1 = function (halghe) {};

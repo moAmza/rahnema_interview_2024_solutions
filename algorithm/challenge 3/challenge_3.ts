@@ -1,10 +1,10 @@
 /**
  * Definition for a binary tree node.
- * class TreeNode {
+ * class Node {
  *     val: number
- *     left: TreeNode | null
- *     right: TreeNode | null
- *     constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {
+ *     left: Node | null
+ *     right: Node | null
+ *     constructor(val?: number, left?: Node | null, right?: Node | null) {
  *         this.val = (val===undefined ? 0 : val)
  *         this.left = (left===undefined ? null : left)
  *         this.right = (right===undefined ? null : right)
@@ -12,4 +12,4 @@
  * }
  */
 
-function recoverFromPreorder(traversal: string): TreeNode | null {}
+function Recover(traversal: string): Node | null {}

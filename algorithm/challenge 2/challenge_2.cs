@@ -1,6 +1,6 @@
-public class BrowserHistory {
+public class Tarikhche {
 
-    public BrowserHistory(string homepage) {
+    public Tarikhche(string homepage) {
         
     }
     
@@ -18,8 +18,8 @@ public class BrowserHistory {
 }
 
 /**
- * Your BrowserHistory object will be instantiated and called as such:
- * BrowserHistory obj = new BrowserHistory(homepage);
+ * Your Tarikhche object will be instantiated and called as such:
+ * Tarikhche obj = new Tarikhche(homepage);
  * obj.Visit(url);
  * string param_2 = obj.Undo(steps);
  * string param_3 = obj.Redo(steps);

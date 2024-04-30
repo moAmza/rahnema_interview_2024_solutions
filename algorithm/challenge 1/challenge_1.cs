@@ -1,5 +1,4 @@
-public class Solution {
-    public int CountPoints(string rings) {
-        
-    }
+ 
+public int c1(string halghe) {
+    
 }

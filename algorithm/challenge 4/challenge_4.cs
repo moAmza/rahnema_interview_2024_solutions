@@ -1,5 +1,4 @@
-public class Solution {
-    public int MaxValue(int[][] events, int k) {
-        
-    }
+ 
+public int MaxValue(int[][] events, int k) {
+    
 }

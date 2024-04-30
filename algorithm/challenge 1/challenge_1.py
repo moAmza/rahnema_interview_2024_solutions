@@ -1,3 +1,3 @@
-class Solution:
-    def countPoints(self, rings: str) -> int:
+   
+def c1(self, halghe: str) -> int:
         

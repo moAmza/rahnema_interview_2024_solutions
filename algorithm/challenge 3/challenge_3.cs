@@ -1,18 +1,18 @@
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Node {
  *     public int val;
- *     public TreeNode left;
- *     public TreeNode right;
- *     public TreeNode(int val=0, TreeNode left=null, TreeNode right=null) {
+ *     public Node left;
+ *     public Node right;
+ *     public Node(int val=0, Node left=null, Node right=null) {
  *         this.val = val;
  *         this.left = left;
  *         this.right = right;
  *     }
  * }
  */
-public class Solution {
-    public TreeNode RecoverFromPreorder(string traversal) {
-        
-    }
+ 
+ 
+public Node Recover(string traversal) {
+    
 }
