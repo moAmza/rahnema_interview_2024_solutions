@@ -1,1 +1,1 @@
-function countPoints(rings: string): number {}
+function c1(rings: string): number {}
